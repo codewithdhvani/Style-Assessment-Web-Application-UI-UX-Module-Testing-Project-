@@ -1,4 +1,4 @@
-# Style-Assessment-Web-Application-UI-UX-Module-Testing-Project
+# Style-Assessment-Web-Application
 This project is an AI-powered personal styling web application designed to deliver a highly personalized fashion and wardrobe guidance experience. The platform guides users through a structured, multi-step onboarding journey where they answer a series of questions related to their style preferences, color knowledge, body attributes, wardrobe habits, and fashion challenges.
 
 Based on user inputs such as age, height, weight, skin tone, hair color, eye color, body shape, and aesthetic vibe, the system builds a comprehensive user profile to generate customized style recommendations. Key features include preference discovery flows, capsule wardrobe planning, virtual try-on, selfie-based color analysis, results processing, subscription plan selection, OTP verification, and final onboarding completion.
